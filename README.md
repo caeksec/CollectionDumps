@@ -9,7 +9,7 @@ However, these would have most likely been dupes so I considered it acceptable.
 ### Collection 1
 Total size: 3.98 GB
 ### Collection 2 
-Total size: TBD
+Total size: 8.75 GB
 ### Collection 3 
 Total size: 1.40 GB
 ### Collection 4 
