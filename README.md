@@ -5,7 +5,7 @@ I had to leave out a chunk of data due to it been in its original ``email:hash``
 
 However, these would have most likely been dupes so I considered it acceptable.
 
-## Collections
+## Collection Sizes after dedup
 ### Collection 1
 Total size: 3.98 GB
 ### Collection 2 
